@@ -1,0 +1,1 @@
+This folder contains images in 512x512 pixels
